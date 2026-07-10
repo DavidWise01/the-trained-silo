@@ -1,0 +1,18 @@
+{
+  "badge": "DLW-THE_TRAINED_SILO",
+  "name": "THE TRAINED SILO · 120 layers, two engines",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦THE TRAINED SILO · 120 layers, two engines:the-trained-silo:db3f4c⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "db3f4c14a10c39550a33230c11ee06d403652087aebfc2cc748301be261ebbd9",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 1197,
+    "prev": "d151f7555bad8421029917db245db6451fea37a7fe5e8f61eca8b58340077e3d",
+    "link": "44c00dc451e16e7c2c50b22c686f4432f42bab5ac1147e7dbbb63a59c214c30b",
+    "head": "324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
+}
